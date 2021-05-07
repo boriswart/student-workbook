@@ -13,3 +13,12 @@ Frames => images => colors => etc.  (save out the colors)
 1. Do you think wire-frames are worth the Time, Energy, and Effort that they require? Why or Why not?
 
 I think it is a bit of overkill a good look at the website to clone is good enough but to build from scratch is definately important !
+
+# image fix for porting/publish on github:
+-----------------------------------------------------------------------
+|<img scr="assets/img/...."> ...NOT.....  <img scr="/assets/img/...." ||                                                                     |
+-----------------------------------------------------------------------
+| because github will try to fully qualify the first / based on your  |  
+| github account domain ..   So it will be probably missing the       |
+| moody-kittens part ..                                               |
+-----------------------------------------------------------------------
