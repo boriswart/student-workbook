@@ -22,3 +22,6 @@ I think it is a bit of overkill a good look at the website to clone is good enou
 | github account domain ..   So it will be probably missing the       |
 | moody-kittens part ..                                               |
 -----------------------------------------------------------------------
+
+Partner: Wyatt Dockstadder
+Github:  https://github.com/boriswart/student-workbook.git
