@@ -25,14 +25,12 @@ This defines the bigginning and end of the area in the html (hyper text markup l
 <!-- enter you answer in the space below -->
 ```
 Hypertext Markup Language
-
 ```
 
 **5.** What Does `CSS` stand for?
 <!-- enter you answer in the space below -->
 ```
 Cascading Style Sheet..  Why cascading  not sure . Cascading in electronics implies a couple of devices are partially in parellel. Some of their nodes.
-
 
 ```
 
