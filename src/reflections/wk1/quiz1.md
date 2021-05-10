@@ -1,7 +1,7 @@
 # Foundations of Web Development
 
 **1.** In the terminal, what is the command `cd` used for?
-<!-- enter you answer in the space below -->
+<!-- enter you answer  in the space below -->
 ``` 
 cd is change directory....   It is used to navigate around in the directory structure. This command is valid in both unix and DOS.. 
 
