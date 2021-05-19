@@ -9,3 +9,7 @@ export defaults lets other code access without alias example math.sumAll() so li
 # What is a benefit of using the Module System?
 
 Keeps data safe from mischievous users.....  Encapsulates code and makes it available to and reusable by other users.
+
+Daily  Project:
+
+https://github.com/boriswart/vending-machine
