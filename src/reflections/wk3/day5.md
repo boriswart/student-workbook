@@ -15,3 +15,7 @@ About this time I started teaching Guitar.. I noticed that my guitar skill start
 This week I learned important skills and my guitar skill are really improving...Online guitart teacher is looming in my brain.
 
 I love what I am learning here.!  And those are my weekly reflection.
+
+Weekly checkpoint Task Manager....
+
+https://boriswart.github.io/task-manager/
