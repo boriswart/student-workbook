@@ -1,6 +1,8 @@
 # What problems does the Observer Pattern seek to solve?
+push and pull between code updates or html/data affected many places in code due to user interaction with JS code. Can be out of with .... itself.  Updates in some areas but not yet done in other areas.... etc
 
 # What are the three mechanisms of the observer pattern?
+
 
 # Review the code generated from the bcw-template and reflect on the proxy objects from yesterday, and your understanding of the observer pattern today. With this knowledge, explain how the magic of the bcw-template uses these two concepts to manage and update the dom.
 
