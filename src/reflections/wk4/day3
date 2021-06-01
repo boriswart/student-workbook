@@ -7,3 +7,5 @@ The function must ahve a async keyword and the axios call must have an await.
 
 What are some of the primary benefits of Async/Await?
 
+Pokedex was done toggether with Joseph Sook.   Josepph decided to not continue..in the program
+the partially completed Pokedex is in his repository.
