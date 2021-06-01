@@ -1,0 +1,9 @@
+# What is the purpose of Async/Await?
+
+ Gets your code looking for and waiting for a response. so that it is not just missed.
+
+What must you do in order to await a promise inside of a function?
+The function must ahve a async keyword and the axios call must have an await.
+
+What are some of the primary benefits of Async/Await?
+
