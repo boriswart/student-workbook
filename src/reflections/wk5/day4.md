@@ -6,7 +6,7 @@ Students will get into groups for their hack-a-thon project and begin preparatio
 
 Things learned if there are differences of opinion about how to implement , get it in writing.
 
-<H1>E.G. scrpt to a hack-athon play:</h1>
+<H1>E.G. script to a hack-athon play:</h1>
 
 <b>Team member1:</b>    I think we will create two models a Post model and a Comment model. Later uhh ... lets add an array to the Post model where we can put the associated Comments....
 
