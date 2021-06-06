@@ -40,7 +40,7 @@ Long discussions with TAs....
 
 <b>Other team member leader follower:</b> Ohh it just gets put there when you add a comment from the comment service...... 
 
-After many tense conversations I realize they never agreed to keep things seperate they are just throwing them toggether in proxyState because in this hack-a-thon they know that they only have one user and one post with many fake unimportant posts and one set of data duplicated across two models.  A Post model and a PostComments model. All other orphaned dissenfranchised posts have no comments!
+<em>After many tense conversations I realize they never agreed to keep things seperate they are just throwing them toggether in proxyState because in this hack-a-thon they know that they only have one user and one post with many fake unimportant posts and one set of data duplicated across two models.  A Post model and a PostComments model. All other orphaned dissenfranchised posts have no comments!</em>
 
 <H4>Conclusion: If you can not trust team members to do what they say and they are keeping secrets from you in an authoritative manor..  DO NOT WORK WITH THEM!  Lesson learned. </h4>
 
