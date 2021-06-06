@@ -23,7 +23,7 @@ Things learned if there are differences of opinion about how to implement , get 
 
 much thought .....  much tense discussion .....
 
-<b>lowly me currently being ostrasized from the group:</b> I am doing the post draw function which responds from a onclick from the page view of thumbnail posts so if there is to be a loding of poxyState from back end it would be my function that would call for that. How then are you doing this?! 
+<b>lowly me currently being ostrasized from the group:</b> I am doing the post draw function which responds from a onclick from the page view of thumbnail posts so if there is to be a loading of poxyState from back end it would be my function that would call for that. How then are you doing this?! 
 
 <b>Authoritative team Lead:</b>  Just do it this way we will be taking care of that in the back-end..
 
