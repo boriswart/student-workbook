@@ -53,7 +53,7 @@ This question is not part of MongoDb Relationships as described above. It appear
 
 When might you use a virtual property?
 
-Same as above but I believe this is a link beteen related data that is made clearer by by a virtual naming. Have not read yet. TBD
+Same as above but I believe this is a link between related data that is made clearer by by a virtual naming. Have not read yet. TBD
 
 How do you search by a virtual properties value?
 
