@@ -36,7 +36,7 @@ Long pause in coding:
 Long discussions with TAs....
 
 
-<em>Afer long discussions I ask another follower of leader self appointed teaam leader/dictator:  How is it that proxyState has only the comments from Post when I have communicated nothing to the back-end to load up ProxyState with that data-fiter from mongoose?</em>
+<em>Afer long discussions I ask another follower of leader self appointed teaam leader/dictator:  How is it that proxyState has only the comments from Post when I have communicated nothing to the back-end to load up ProxyState with that data-filter from mongoose?</em>
 
 <b>Other team member leader follower:</b> Ohh it just gets put there when you add a comment from the comment service...... 
 
