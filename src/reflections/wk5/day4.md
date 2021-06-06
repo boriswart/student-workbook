@@ -36,11 +36,11 @@ Long pause in coding:
 Long discussions with TAs....
 
 
-<em>Afer long discussions I ask another follower of leader self appointed teaam leader/dictator:  How is it that proxyState has only the comments from Post when I have communicated nothing to the back-end to load up ProxyState with that datafIter from mongoose?</em>
+<em>Afer long discussions I ask another follower of leader self appointed teaam leader/dictator:  How is it that proxyState has only the comments from Post when I have communicated nothing to the back-end to load up ProxyState with that data-fiter from mongoose?</em>
 
 <b>Other team member leader follower:</b> Ohh it just gets put there when you add a comment from the comment service...... 
 
-After many tense conversations I realize they never agreed to keep things seperate they are just throwing them toggether in proxyState because in this hack-a-thon they know that they only have one user and one post and one set of data duplicated across two models.  
+After many tense conversations I realize they never agreed to keep things seperate they are just throwing them toggether in proxyState because in this hack-a-thon they know that they only have one user and one post with many fake unimportant posts and one set of data duplicated across two models.  A Post model and a PostComments model. All other orphaned dissenfranchised posts have no comments!
 
 <H4>Conclusion: If you can not trust team members to do what they say and they are keeping secrets from you in an authoritative manor..  DO NOT WORK WITH THEM!  Lesson learned. </h4>
 
