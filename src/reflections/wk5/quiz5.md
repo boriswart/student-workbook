@@ -53,4 +53,4 @@ Demonstrate the pattern that is used to include a request query with the client'
 .../api/araofinterest?tag=winter
 
 ```
-Did you can't hit me this week. No marks against me!
+You can't hit me this week. No marks against me!
