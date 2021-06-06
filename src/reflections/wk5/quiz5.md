@@ -53,4 +53,4 @@ Demonstrate the pattern that is used to include a request query with the client'
 .../api/araofinterest?tag=winter
 
 ```
-You can't hit me this week. No marks against me!
+You can't hit me this week. No marks against me! Looked for the email detailing how to change this so it is not black on black ... Sorry could not find it. 
