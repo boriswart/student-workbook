@@ -12,3 +12,17 @@ So the one and only dictator coder could only and was only capable of working on
 My team mates had a pre-supposed false understanding that I am an Idiot apparently.  Where I did state some idiotic ideas through out the colaboration and when I was confronted about them I realized that in some cases .... not all they were right and I was wrong..... That admission of bad thought on my part did not help in any way In fact it contributed all the more to there underlying false assumption.  If I were to talk with them now there would be no resolution because they would still be considering everything I say to be Idiocy.  <em>This coding is very difficult to deal with but the human mind is far greater a challenge than anything else....</em>
 
 That is the final conclussion I draw.
+
+Daily Journal
+Read Frontend Frameworks with Vue3 > Understanding Component Based Architecture and answer the following questions
+# What is Component based architecture?
+
+division of code 
+
+
+# What are some benefits of Component based architecture?
+ Smaller code that is less spaghetti..
+
+# What are some drawbacks to Component based architecture?
+
+Code is in many files. 
