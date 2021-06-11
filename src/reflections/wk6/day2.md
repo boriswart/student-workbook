@@ -9,3 +9,6 @@ As in the example below.. The back arrow key takes you back from car details to 
 use mouting hooks to draw all cars for example to the screen when the cars page reloads.  So for example if you are in car details. And you get out of there using the back arrow It would be goodv to relaod the cars without the need to push the button. 
 
 AfterNoon Challenge:  GregsList.  Vue .
+Being extremely new at Vue .. I really struggled this one.  This was prior to the great lectures we had this week were things were able to click. I have a shell in github....  https://github.com/boriswart  
+
+
