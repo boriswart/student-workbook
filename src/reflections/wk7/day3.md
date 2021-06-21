@@ -15,4 +15,6 @@ The user experience is what determines what applications will be used and those 
 The development of Apllication takes some passion to creat a good user experience. Teams working together all putting ideas in have a much better chance of tapping into that user experience.
 
 
-Capstone not gowing well but much needed learning is happening and it is very difficult to go it alone.
+Capstone not gowing well but much needed learning is happening and it is very difficult to go it alone. The white board wednessday was a much needed break and was good fun helping me to integrate with fellow student to some degree but I cannot read their minds and they still do not talk to me at all... and laugh at the thngs I say publicly..   So not sure.
+
+But the team whiteboard coding was very fun... still and outsider...
