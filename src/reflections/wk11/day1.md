@@ -35,6 +35,8 @@ Application will give you client ID update client env.js server app....developme
 setup in you Auth0 application/API https://locaalhost:5001, http://localhost:8080
 Note localhost:5001 => https://...  while localhost:8080  => http://...  no s!...
 
+re-run your client ... grab bearer token and put it into postman.
+
 
 Update  setup .sql   reload PAGE ABD Boom! Automaticly Loads account info into Account Table
 
