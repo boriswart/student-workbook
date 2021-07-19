@@ -1,5 +1,5 @@
 # Class Notes 7/19
-steps: bcw-create dotnet Auth
+steps: bcw-create dotnet-vue
 Add connection string to startup.cs
 startup.cs  => IDB Accounts, Cors
    Cors Who are trusted clients localhost:8080, localhost:8081  Cross Origin x x 
