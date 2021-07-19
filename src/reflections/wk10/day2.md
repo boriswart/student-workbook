@@ -1,0 +1,20 @@
+CONNECTING TO A MYSQL DATABASE
+Morning Challenge
+Artist API
+Create an API for 'artists' this must include all the standard CRUD routes
+
+Daily Project
+ArtGalleryDB
+The class will take the morning project and work through adding in a MySql database, covering connection to the db, utilization of a repository, MySql statements with Dapper, and a one to many relationship.
+
+Afternoon Challenge
+A Knight's Tale
+Students will create a new API to include collections for 'castles' and 'knights' where the knights have a reference to which castle they are from.
+
+Daily Journal
+Read Dotnet WebAPI's > Welcome to SQL, and answer the following questions
+In a SQL table, what is the difference between information in a row and information in a column?
+
+Demonstrate the basic structure for creating a new table called characters with the values name, age, description as strings, and an int id.
+
+What is the difference between the following statements:
