@@ -28,6 +28,14 @@ CREATE TABLE Accounts(
   picture varchar(255) NOT NULL comment 'Picture URL'
 ) default charset utf8 comment '';
 
+
+create API and Application on Auth0 account
+API will give you Audience, Domain....
+Application will give you client ID update client env.js server app....development 
+setup in you Auth0 application/API https://locaalhost:5001, http://localhost:8080
+Note localhost:5001 => https://...  while localhost:8080  => http://...  no s!...
+
+
 Update  setup .sql   reload PAGE ABD Boom! Automaticly Loads account info into Account Table
 
 New Decorator tag [AUTHORIZE] to don't let people past without a bearere token However please not:
