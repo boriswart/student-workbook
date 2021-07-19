@@ -1,4 +1,4 @@
-# Class Notes 7/19
+# Class Notes 7/19  Auth vue dotnet ....
 steps: bcw-create dotnet-vue
 Add connection string to startup.cs
 startup.cs  => IDB Accounts, Cors
