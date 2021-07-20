@@ -22,7 +22,7 @@ Demonstrate the basic structure for creating a new table called characters with 
 
 
 
-What is the difference between the following statements:
+# What is the difference between the following statements:
 DELETE FROM table_name;
 DROP TABLE table_name;
 
@@ -30,3 +30,7 @@ Drop Table drops entire Table All records! Whatch out ouch
 
 
 Artist.... I have creatated Artist in boriswart Github
+link on github:
+ I have been using Artist as a location to put learning in fro prep for final so I was working on Artis even into the weekend....
+
+ link on git hub: https://github.com/boriswart/artist
