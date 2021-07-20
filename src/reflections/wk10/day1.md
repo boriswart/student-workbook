@@ -51,4 +51,5 @@ gregslist cars/houses/jobs
 
 Instead of moon miner I did console rock paper scissors...  Since this was only a console application I did not push it to github... Pushing it now.
 
+https://github.com/boriswart/cs_rps
 
